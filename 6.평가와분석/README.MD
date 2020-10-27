@@ -17,8 +17,6 @@
 
 F1SCORE 표를 그려, Threshold 값에 따른 RECALL,PRECISION.... 값들의 지표를 그려 결정한다.
 (F1-Score는 recall과 precision이 둘다 균일하게 높은 값을 가질 수 있는 값이다.)
-
-
 ![image](https://user-images.githubusercontent.com/70446214/97321648-74567300-18b2-11eb-8c38-49b5f12f1b14.png)
 
 
@@ -28,4 +26,7 @@ F1SCORE 표를 그려, Threshold 값에 따른 RECALL,PRECISION.... 값들의 �
 *스팸메일의 경우, 음성인 데이터를 양성으로 판단하면 안된다 -> precision이 중요요소
 
 
-ROC 그래프를 그려본다.
+3. ROC 그래프를 그려본다.
+
+
+![image](https://user-images.githubusercontent.com/70446214/97322690-63f2c800-18b3-11eb-8dca-ea01e46ac230.png)
